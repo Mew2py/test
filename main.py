@@ -14,7 +14,4 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 a = 'Hellow'
-b = 1
-c = 2
-d = 4
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
